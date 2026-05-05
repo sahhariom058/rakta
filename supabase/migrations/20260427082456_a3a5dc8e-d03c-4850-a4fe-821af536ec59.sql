@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Donor photos are publicly viewable" ON storage.objects;
